@@ -13,8 +13,11 @@ Para este video usaremos las siguientes herramientas:
 ## ⚫ Pasos a realizar 
 
 1. Primer paso: Obtener el archivo `JSON` de la aplicación de `Google Earth Engine`.
-
-2. Segundo paso: Obtener la dirección del proyecto o repositorio e la aplicación de `Google Earth Engine` donde está almacenada la información ya sea en un  `FeatureCollection`, `Image` o `ImageCollection`.
+   - Para este ejemplo usaremos la aplicación generada por Moat et al. (2021)
+     - Link de la aplicación: https://gistin.users.earthengine.app/view/fogoasis
+     - Link del paper: https://www.sciencedirect.com/science/article/pii/S0303243421001756 
+  
+2. Segundo paso: Obtener la dirección del proyecto o repositorio de la aplicación de `Google Earth Engine` donde está almacenada la información ya sea en un  `FeatureCollection`, `Image` o `ImageCollection`.
 
 3. Tercer paso: Usar el paquete `rgee` y `terra` para la extracción de datos ([script]()).
 
