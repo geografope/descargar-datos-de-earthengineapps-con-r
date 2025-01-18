@@ -19,7 +19,7 @@ Para este video usaremos las siguientes herramientas:
   
 2. Segundo paso: Obtener la dirección del proyecto o repositorio de la aplicación de `Google Earth Engine` donde está almacenada la información ya sea en un  `FeatureCollection`, `Image` o `ImageCollection`.
 
-3. Tercer paso: Usar el paquete `rgee` y `terra` para la extracción de datos ([script]()).
+3. Tercer paso: Usar el paquete `rgee` y `terra` para la extracción de datos ([script](https://github.com/geografope/descargar-datos-de-earthengineapps-con-r/blob/main/script/main.R)).
 
 4. Cuarto paso: Visualizar los datos obtenidos en `QGIS`
 
