@@ -26,7 +26,7 @@ Para este video usaremos las siguientes herramientas:
 
 Todo el proceso desarrollado esta explicado al detalle en el siguiente video de YouTube 🎥.
 
-[![Watch the video](https://img.youtube.com/vi//0.jpg)]()
+[![Watch the video](https://img.youtube.com/vi/kWKaF6c-ydI/0.jpg)](https://youtu.be/kWKaF6c-ydI?si=Fg99ucxgayoQTs4U)
 
 
 ¡Enteráte más y aprender conmigo! 🔍💡 Suscríbete, activa las notificaciones 🔔 y únete a la comunidad que ama el software libre de código abierto. 🌟🌍 👇
